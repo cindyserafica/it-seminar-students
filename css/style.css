@@ -1,0 +1,69 @@
+body {
+font-family: Times New Roman;
+color: black;
+margin: 20px;
+}
+
+h1 {
+text-align: center;
+}
+
+form {
+width: 350px;
+margin: auto;
+padding: 15px;
+border: 2px solid black;
+}
+
+p {
+margin-bottom: 15px;
+}
+
+label {
+font-weight: bold;
+}
+
+input {
+width: 200px;
+margin-top: 5px;
+}
+
+select {
+width: 205px;
+margin-top: 5px;
+}
+
+#terms {
+width: auto;
+margin-right: 5px;
+}
+
+button {
+margin-top: 10px;
+margin-right: 5px;
+padding: 5px;
+}
+
+.err {
+display: block;
+margin-top: 5px;
+font-size: 13px;
+}
+
+.note {
+display: block;
+margin-top: 5px;
+font-size: 13px;
+}
+
+#successMessage {
+text-align: center;
+}
+
+#registrationSummary {
+width: 350px;
+margin: auto;
+margin-top: 15px;
+padding: 10px;
+border: 1px solid black;
+}
